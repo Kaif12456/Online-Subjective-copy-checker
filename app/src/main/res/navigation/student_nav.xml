@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2021. rogergcc
+  -->
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/student_nav"
+    app:startDestination="@id/studenthome">
+    <fragment
+        android:id="@+id/studenthome"
+        android:name="com.appsnipp.education.ui.student_fragment.HomeCoursesFragment"
+        android:label="Home">
+        <action
+            android:id="@+id/action_studenthome_to_fileViewFragment"
+            app:destination="@id/fileViewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fileViewFragment"
+        android:name="com.appsnipp.education.ui.student_fragment.FileViewFragment"
+        android:label="fragment_file_view"
+        tools:layout="@layout/fragment_file_view">
+        <argument
+            android:name="pdf"
+            app:argType="com.appsnipp.education.ui.model.Pdf" />
+        <action
+            android:id="@+id/action_fileViewFragment_to_studenthome"
+            app:destination="@id/studenthome" />
+    </fragment>
+</navigation>
