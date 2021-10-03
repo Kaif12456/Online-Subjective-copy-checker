@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_popular_course.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/item_popular_course.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/forgot_dialog.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/forgot_dialog.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_bar_main.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_login.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/layout_login.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_frutorials.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/card_frutorials.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_shop_card.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/item_shop_card.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_student.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/activity_student.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/nav_header_main.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_pager_card.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/item_pager_card.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_dashboard_course.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/activity_dashboard_course.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_file_view.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/fragment_file_view.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_student_files.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/card_student_files.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_card.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/item_card.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_register.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/layout_register.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_profile_detail.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/activity_profile_detail.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_admin_view.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/fragment_admin_view.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_course_item.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/card_course_item.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_courses_stagged.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/fragment_courses_stagged.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_course_stagged.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/activity_course_stagged.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_matches_courses.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/fragment_matches_courses.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_admin.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/activity_admin.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_popular_course_playing.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/item_popular_course_playing.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_teacher.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/activity_teacher.xml"
+    },
+    {
+        "merged": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home_courses.xml",
+        "source": "/Users/mohdkaifalam/Downloads/OnlineSubjectiveCopyChecker-master/app/src/main/res/layout/fragment_home_courses.xml"
+    }
+]

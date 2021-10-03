@@ -1,0 +1,163 @@
+com/appsnipp/education/ui/model/MatchCourse.java
+ com.appsnipp.education.ui.model.MatchCourse
+com/appsnipp/education/databinding/ActivityLoginBinding.java
+ com.appsnipp.education.databinding.ActivityLoginBinding
+com/appsnipp/education/MainActivity.java
+ com.appsnipp.education.MainActivity
+com/appsnipp/education/databinding/FragmentAdminViewBinding.java
+ com.appsnipp.education.databinding.FragmentAdminViewBinding
+com/appsnipp/education/databinding/ItemPopularCoursePlayingBinding.java
+ com.appsnipp.education.databinding.ItemPopularCoursePlayingBinding
+com/appsnipp/education/ui/menucourses/AdminRecyclerAdapter.java
+ com.appsnipp.education.ui.menucourses.AdminRecyclerAdapter
+ com.appsnipp.education.ui.menucourses.AdminRecyclerAdapter$Holder
+com/appsnipp/education/App.java
+ com.appsnipp.education.App
+com/appsnipp/education/ui/helpers/GridSpacingItemDecoration.java
+ com.appsnipp.education.ui.helpers.GridSpacingItemDecoration
+com/appsnipp/education/ui/model/Teacher.java
+ com.appsnipp.education.ui.model.Teacher
+ com.appsnipp.education.ui.model.Teacher$1
+com/appsnipp/education/Constants.java
+ com.appsnipp.education.Constants
+com/appsnipp/education/ui/helpers/HorizontalMarginItemDecoration.java
+ com.appsnipp.education.ui.helpers.HorizontalMarginItemDecoration
+com/appsnipp/education/ui/model/MyMatchesCourses.java
+ com.appsnipp.education.ui.model.MyMatchesCourses
+com/appsnipp/education/ui/menucourses/AdminViewFragmentDirections.java
+ com.appsnipp.education.ui.menucourses.AdminViewFragmentDirections
+com/appsnipp/education/databinding/ActivityTeacherBinding.java
+ com.appsnipp.education.databinding.ActivityTeacherBinding
+com/appsnipp/education/ui/helpers/DarkModePrefManager.java
+ com.appsnipp.education.ui.helpers.DarkModePrefManager
+com/appsnipp/education/databinding/ActivityCourseStaggedBinding.java
+ com.appsnipp.education.databinding.ActivityCourseStaggedBinding
+com/appsnipp/education/databinding/ContentMainBinding.java
+ com.appsnipp.education.databinding.ContentMainBinding
+com/appsnipp/education/databinding/ForgotDialogBinding.java
+ com.appsnipp.education.databinding.ForgotDialogBinding
+com/appsnipp/education/databinding/LayoutRegisterBinding.java
+ com.appsnipp.education.databinding.LayoutRegisterBinding
+com/appsnipp/education/TeacherActivity.java
+ com.appsnipp.education.TeacherActivity
+com/appsnipp/education/ui/menusearch/UploadsRecyclerAdapter.java
+ com.appsnipp.education.ui.menusearch.UploadsRecyclerAdapter
+ com.appsnipp.education.ui.menusearch.UploadsRecyclerAdapter$Holder
+com/appsnipp/education/BuildConfig.java
+ com.appsnipp.education.BuildConfig
+com/appsnipp/education/databinding/ItemPagerCardBinding.java
+ com.appsnipp.education.databinding.ItemPagerCardBinding
+com/appsnipp/education/databinding/AppBarMainBinding.java
+ com.appsnipp.education.databinding.AppBarMainBinding
+com/appsnipp/education/databinding/CardStudentFilesBinding.java
+ com.appsnipp.education.databinding.CardStudentFilesBinding
+com/appsnipp/education/ui/helpers/BottomNavigationBehavior.java
+ com.appsnipp.education.ui.helpers.BottomNavigationBehavior
+com/appsnipp/education/ui/adapter/MatchesCoursesAdapter.java
+ com.appsnipp.education.ui.adapter.MatchesCoursesAdapter
+ com.appsnipp.education.ui.adapter.MatchesCoursesAdapter$1
+ com.appsnipp.education.ui.adapter.MatchesCoursesAdapter$ViewHolder
+com/appsnipp/education/ui/menucourses/AdminViewFragmentArgs.java
+ com.appsnipp.education.ui.menucourses.AdminViewFragmentArgs
+ com.appsnipp.education.ui.menucourses.AdminViewFragmentArgs$1
+ com.appsnipp.education.ui.menucourses.AdminViewFragmentArgs$Builder
+com/appsnipp/education/databinding/ActivityMainBinding.java
+ com.appsnipp.education.databinding.ActivityMainBinding
+com/appsnipp/education/ui/utils/MyUtilsApp.java
+ com.appsnipp.education.ui.utils.MyUtilsApp
+com/appsnipp/education/ui/menusearch/CourseTopicsViewPager.java
+ com.appsnipp.education.ui.menusearch.CourseTopicsViewPager
+ com.appsnipp.education.ui.menusearch.CourseTopicsViewPager$1
+ com.appsnipp.education.ui.menusearch.CourseTopicsViewPager$ViewHolder
+com/appsnipp/education/ui/menucourses/AdminFragmentDirections.java
+ com.appsnipp.education.ui.menucourses.AdminFragmentDirections
+ com.appsnipp.education.ui.menucourses.AdminFragmentDirections$1
+ com.appsnipp.education.ui.menucourses.AdminFragmentDirections$ActionAdminhomeToAdminViewFragment
+com/appsnipp/education/ui/student_fragment/HomeCoursesFragmentDirections.java
+ com.appsnipp.education.ui.student_fragment.HomeCoursesFragmentDirections
+ com.appsnipp.education.ui.student_fragment.HomeCoursesFragmentDirections$1
+ com.appsnipp.education.ui.student_fragment.HomeCoursesFragmentDirections$ActionStudenthomeToFileViewFragment
+com/appsnipp/education/databinding/ActivitySplashBinding.java
+ com.appsnipp.education.databinding.ActivitySplashBinding
+com/appsnipp/education/ui/student_fragment/FileViewFragment.java
+ com.appsnipp.education.ui.student_fragment.FileViewFragment
+ com.appsnipp.education.ui.student_fragment.FileViewFragment$RetrivePDFfromUrl
+com/appsnipp/education/databinding/ActivityProfileDetailBinding.java
+ com.appsnipp.education.databinding.ActivityProfileDetailBinding
+com/appsnipp/education/ui/model/CourseCard.java
+ com.appsnipp.education.ui.model.CourseCard
+com/appsnipp/education/AdminActivity.java
+ com.appsnipp.education.AdminActivity
+com/appsnipp/education/StudentActivity.java
+ com.appsnipp.education.StudentActivity
+com/appsnipp/education/databinding/FragmentFileViewBinding.java
+ com.appsnipp.education.databinding.FragmentFileViewBinding
+com/appsnipp/education/ui/menucourses/AdminViewFragment.java
+ com.appsnipp.education.ui.menucourses.AdminViewFragment
+ com.appsnipp.education.ui.menucourses.AdminViewFragment$1
+ com.appsnipp.education.ui.menucourses.AdminViewFragment$RetrivePDFfromUrl
+com/appsnipp/education/databinding/FragmentMatchesCoursesBinding.java
+ com.appsnipp.education.databinding.FragmentMatchesCoursesBinding
+com/appsnipp/education/databinding/ActivityAdminBinding.java
+ com.appsnipp.education.databinding.ActivityAdminBinding
+com/appsnipp/education/databinding/ItemCardBinding.java
+ com.appsnipp.education.databinding.ItemCardBinding
+com/appsnipp/education/ui/menucourses/AdminFragment.java
+ com.appsnipp.education.ui.menucourses.AdminFragment
+com/appsnipp/education/databinding/FragmentCoursesStaggedBinding.java
+ com.appsnipp.education.databinding.FragmentCoursesStaggedBinding
+com/appsnipp/education/LoginActivity.java
+ com.appsnipp.education.LoginActivity
+com/appsnipp/education/ui/student_fragment/FilesRecyclerAdapter.java
+ com.appsnipp.education.ui.student_fragment.FilesRecyclerAdapter
+ com.appsnipp.education.ui.student_fragment.FilesRecyclerAdapter$Holder
+com/appsnipp/education/ui/listeners/MatchCourseClickListener.java
+ com.appsnipp.education.ui.listeners.MatchCourseClickListener
+com/appsnipp/education/ProfileDetailActivity.java
+ com.appsnipp.education.ProfileDetailActivity
+com/appsnipp/education/databinding/ActivityDashboardCourseBinding.java
+ com.appsnipp.education.databinding.ActivityDashboardCourseBinding
+com/appsnipp/education/ui/model/Student.java
+ com.appsnipp.education.ui.model.Student
+ com.appsnipp.education.ui.model.Student$1
+com/appsnipp/education/Utils.java
+ com.appsnipp.education.Utils
+com/appsnipp/education/databinding/FragmentHomeCoursesBinding.java
+ com.appsnipp.education.databinding.FragmentHomeCoursesBinding
+com/appsnipp/education/ui/listeners/CoursesItemClickListener.java
+ com.appsnipp.education.ui.listeners.CoursesItemClickListener
+com/appsnipp/education/databinding/LayoutLoginBinding.java
+ com.appsnipp.education.databinding.LayoutLoginBinding
+com/appsnipp/education/ui/model/Profile.java
+ com.appsnipp.education.ui.model.Profile
+ com.appsnipp.education.ui.model.Profile$1
+com/appsnipp/education/databinding/CardCourseItemBinding.java
+ com.appsnipp.education.databinding.CardCourseItemBinding
+com/appsnipp/education/databinding/ItemShopCardBinding.java
+ com.appsnipp.education.databinding.ItemShopCardBinding
+com/appsnipp/education/ui/student_fragment/FileViewFragmentArgs.java
+ com.appsnipp.education.ui.student_fragment.FileViewFragmentArgs
+ com.appsnipp.education.ui.student_fragment.FileViewFragmentArgs$1
+ com.appsnipp.education.ui.student_fragment.FileViewFragmentArgs$Builder
+com/appsnipp/education/ui/student_fragment/FileViewFragmentDirections.java
+ com.appsnipp.education.ui.student_fragment.FileViewFragmentDirections
+com/appsnipp/education/SplashActivity.java
+ com.appsnipp.education.SplashActivity
+com/appsnipp/education/ui/model/Request.java
+ com.appsnipp.education.ui.model.Request
+ com.appsnipp.education.ui.model.Request$1
+com/appsnipp/education/ui/menusearch/TeacherUploadFragment.java
+ com.appsnipp.education.ui.menusearch.TeacherUploadFragment
+com/appsnipp/education/ui/model/Pdf.java
+ com.appsnipp.education.ui.model.Pdf
+ com.appsnipp.education.ui.model.Pdf$1
+com/appsnipp/education/databinding/ActivityStudentBinding.java
+ com.appsnipp.education.databinding.ActivityStudentBinding
+com/appsnipp/education/databinding/ItemPopularCourseBinding.java
+ com.appsnipp.education.databinding.ItemPopularCourseBinding
+com/appsnipp/education/databinding/NavHeaderMainBinding.java
+ com.appsnipp.education.databinding.NavHeaderMainBinding
+com/appsnipp/education/ui/student_fragment/HomeCoursesFragment.java
+ com.appsnipp.education.ui.student_fragment.HomeCoursesFragment
+com/appsnipp/education/databinding/CardFrutorialsBinding.java
+ com.appsnipp.education.databinding.CardFrutorialsBinding

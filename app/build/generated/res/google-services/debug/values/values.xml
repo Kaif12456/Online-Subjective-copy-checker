@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">176138386672-e29c5f9jidihs0frg1ihdjkh18vu1p76.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://basoiot-a66d0.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">176138386672</string>
+    <string name="google_api_key" translatable="false">AIzaSyA6-Ap-uI__pAbMaEd5ZvhsdeOVpOnx9R0</string>
+    <string name="google_app_id" translatable="false">1:176138386672:android:cf7bd383dc31e1c1df1635</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA6-Ap-uI__pAbMaEd5ZvhsdeOVpOnx9R0</string>
+    <string name="google_storage_bucket" translatable="false">basoiot-a66d0.appspot.com</string>
+    <string name="project_id" translatable="false">basoiot-a66d0</string>
+</resources>

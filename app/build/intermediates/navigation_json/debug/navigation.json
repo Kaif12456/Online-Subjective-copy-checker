@@ -1,0 +1,22 @@
+[
+  {
+    "name": "admin_nav",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "student_nav",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_graph",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "teacher_nav",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  }
+]
